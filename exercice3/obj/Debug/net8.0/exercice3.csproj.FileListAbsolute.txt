@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\bin\Debug\net8.0\exercice3.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\bin\Debug\net8.0\exercice3.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\bin\Debug\net8.0\exercice3.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\bin\Debug\net8.0\exercice3.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\bin\Debug\net8.0\exercice3.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\refint\exercice3.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\exercice3.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\exercice3\obj\Debug\net8.0\ref\exercice3.dll
