@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice1\\exercice1.csproj": {}
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice2\\exercice2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice1\\exercice1.csproj": {
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice2\\exercice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice1\\exercice1.csproj",
-        "projectName": "exercice1",
-        "projectPath": "c:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice1\\exercice1.csproj",
+        "projectUniqueName": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice2\\exercice2.csproj",
+        "projectName": "exercice2",
+        "projectPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice2\\exercice2.csproj",
         "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice1\\obj\\",
+        "outputPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\exercice2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
