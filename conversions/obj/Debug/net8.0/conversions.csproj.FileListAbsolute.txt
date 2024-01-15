@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\bin\Debug\net8.0\conversions.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\bin\Debug\net8.0\conversions.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\bin\Debug\net8.0\conversions.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\bin\Debug\net8.0\conversions.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\bin\Debug\net8.0\conversions.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\refint\conversions.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\conversions.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\conversions\obj\Debug\net8.0\ref\conversions.dll

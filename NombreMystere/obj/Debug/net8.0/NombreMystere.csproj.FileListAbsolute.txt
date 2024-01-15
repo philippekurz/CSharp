@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\bin\Debug\net8.0\NombreMystere.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\bin\Debug\net8.0\NombreMystere.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\bin\Debug\net8.0\NombreMystere.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\bin\Debug\net8.0\NombreMystere.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\bin\Debug\net8.0\NombreMystere.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\refint\NombreMystere.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\NombreMystere.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\nombremystere\obj\Debug\net8.0\ref\NombreMystere.dll
