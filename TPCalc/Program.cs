@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TPCalc;
+
+Calculatrice calc = new Calculatrice();
+
+Console.WriteLine(calc.Addition(10, 5));

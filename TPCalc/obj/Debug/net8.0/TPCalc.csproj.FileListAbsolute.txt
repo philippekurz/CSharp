@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\bin\Debug\net8.0\TPCalc.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\bin\Debug\net8.0\TPCalc.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\bin\Debug\net8.0\TPCalc.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\bin\Debug\net8.0\TPCalc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\bin\Debug\net8.0\TPCalc.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\refint\TPCalc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\TPCalc.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\TPCalc\obj\Debug\net8.0\ref\TPCalc.dll
