@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\bin\Debug\net8.0\Equation.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\bin\Debug\net8.0\Equation.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\bin\Debug\net8.0\Equation.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\bin\Debug\net8.0\Equation.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\bin\Debug\net8.0\Equation.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\refint\Equation.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\Equation.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\equation\obj\Debug\net8.0\ref\Equation.dll
