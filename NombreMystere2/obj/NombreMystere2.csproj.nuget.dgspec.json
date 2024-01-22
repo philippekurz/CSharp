@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\NombreMystere2\\NombreMystere2.csproj": {}
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\nombremystere2\\NombreMystere2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\NombreMystere2\\NombreMystere2.csproj": {
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\nombremystere2\\NombreMystere2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\NombreMystere2\\NombreMystere2.csproj",
+        "projectUniqueName": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\nombremystere2\\NombreMystere2.csproj",
         "projectName": "NombreMystere2",
-        "projectPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\NombreMystere2\\NombreMystere2.csproj",
+        "projectPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\nombremystere2\\NombreMystere2.csproj",
         "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\NombreMystere2\\obj\\",
+        "outputPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\nombremystere2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",
