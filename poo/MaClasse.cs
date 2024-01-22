@@ -1,6 +1,6 @@
 using System;
 
-namespace poo
+namespace POO
 {
     public class MaClasse
     {
@@ -9,16 +9,13 @@ namespace poo
             Console.WriteLine("MaMethode");
         }
 
-        public void Ecrire(string message)
-        {
+        public void Ecrire(string message){
             Console.WriteLine(message);
         }
 
-        public string Lire()
-        {
+        public string Lire(){
             return Console.ReadLine();
         }
-
         public override string ToString()
         {
             return "MaClasse";
