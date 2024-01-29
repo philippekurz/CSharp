@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\constructeur\\Constructeur.csproj": {}
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\calc\\Calc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\constructeur\\Constructeur.csproj": {
+    "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\calc\\Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\constructeur\\Constructeur.csproj",
-        "projectName": "Constructeur",
-        "projectPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\constructeur\\Constructeur.csproj",
+        "projectUniqueName": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\calc\\Calc.csproj",
+        "projectName": "Calc",
+        "projectPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\calc\\Calc.csproj",
         "packagesPath": "C:\\Users\\Philippe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\constructeur\\obj\\",
+        "outputPath": "C:\\Users\\Philippe\\Desktop\\IFC\\CSharp\\calc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Philippe\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\bin\Debug\net8.0\Calc.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\bin\Debug\net8.0\Calc.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\bin\Debug\net8.0\Calc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\bin\Debug\net8.0\Calc.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\refint\Calc.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\calc\obj\Debug\net8.0\ref\Calc.dll

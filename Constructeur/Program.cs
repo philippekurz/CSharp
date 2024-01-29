@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Constructeur;
+
+Test t = new Test(3,6);
+Console.WriteLine(t.Nb1);
