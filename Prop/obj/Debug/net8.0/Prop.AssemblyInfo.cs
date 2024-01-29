@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TPCalc")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Prop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0e5026c9aea0db611f3d767653b6967a1a0041")]
-[assembly: System.Reflection.AssemblyProductAttribute("TPCalc")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TPCalc")]
+[assembly: System.Reflection.AssemblyProductAttribute("Prop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Prop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

@@ -1,0 +1,15 @@
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\bin\Debug\net8.0\Prop.exe
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\bin\Debug\net8.0\Prop.deps.json
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\bin\Debug\net8.0\Prop.runtimeconfig.json
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\bin\Debug\net8.0\Prop.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\bin\Debug\net8.0\Prop.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.sourcelink.json
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\refint\Prop.dll
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.pdb
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\Prop.genruntimeconfig.cache
+C:\Users\Philippe\Desktop\IFC\CSharp\prop\obj\Debug\net8.0\ref\Prop.dll
